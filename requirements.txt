@@ -1,0 +1,6 @@
+# ✅ `requirements.txt`
+opencv-python
+mediapipe
+pycaw
+comtypes 
+pyautogui
