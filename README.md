@@ -26,3 +26,7 @@ Control your mouse cursor using hand gestures via webcam using OpenCV, MediaPipe
 ```bash
 pip install -r requirements.txt
 python virtual_mouse.py
+```
+
+## 🛑 How to stop
+Just press key 'q'
